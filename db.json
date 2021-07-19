@@ -1,52 +1,48 @@
 {
-    "restaurants": [
-      {
-        "id": 0,
-        "name": "Tribute Burger",
-        "restaurant": "Honest Burgers",
-        "web": "www.honestburgers.co.uk",
-        "description": "A mouth-watering honest beef burger",
-        "ingredients": [
-          "beef",
-          "american cheese",
-          "burger sauce",
-          "french mustard",
-          "pickes",
-          "onion",
-          "lettuce"
-        ],
-        "addresses": [
-          {
-            "addressId": 0,
-            "number": "75",
-            "line1": "Venn Street",
-            "line2": "Clapham",
-            "postcode": "SW4 0BD",
-            "country": "United Kingdom"
-          }
-        ]
-      },
-      {
-        "id": 1,
-        "name": "Pulled Mooshie",
-        "restaurant": "Mooshies",
-        "web": "www.veganburger.org",
-        "description": "Spicy vegan burger with jackfruit",
-        "ingredients": [
-          "jackfruit",
-          "coleslaw",
-          "gluten free bun"
-        ],
-        "addresses": [
-          {
-            "addressId": 0,
-            "number": "104",
-            "line1": "Brick Lane",
-            "line2": "Shoreditch",
-            "postcode": "E1 6RL",
-            "country": "United Kingdom"
-          }
-        ]
-      }
-    ]
-  }
+  "restaurants": [
+    {
+      "id": 0,
+      "name": "El Meson",
+      "restaurant": "El Meson",
+      "web": "https://www.restaurantelmeson.ca/",
+      "description": "This Lachine restaurant has been bringing in aficionados of simple Mexican food for over 25 years. The menu hits all the traditional food options, with tortilla soup, guacamole, chiles rellenos, and fish filets in a garlicky tomato sauce. Sit near the front windows for a view of the river.",
+      "ingredients": [
+        "beef",
+        "american cheese",
+        "burger sauce",
+        "french mustard",
+        "pickes",
+        "onion",
+        "lettuce"
+      ],
+      "addresses": [
+        {
+          "addressId": 0,
+          "number": "1678",
+          "line1": "Boulevard Saint-Joseph",
+          "line2": "Montréal",
+          "postcode": "H8S 2N1",
+          "country": "Canada"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "El Rey Del Taco",
+      "restaurant": "El Rey Del Taco",
+      "web": "https://m.facebook.com/REYTACOMTL/",
+      "description": "This anchor of the Jean Talon Market spot has a dizzying menu that runs the gamut from tacos and enchiladas to the famous vuelve a la vida (return to life) seafood cocktail hangover cure. It’s hard to avoid all things tortilla here, but don’t miss their warming Mexican triumvirate of innard stews in non-terrasse season: pozole, menudo, and birria.",
+      "ingredients": ["jackfruit", "coleslaw", "gluten free bun"],
+      "addresses": [
+        {
+          "addressId": 0,
+          "number": "232",
+          "line1": "Rue Jean-Talon",
+          "line2": "Montréal",
+          "postcode": "H2R 1S7",
+          "country": "Canada"
+        }
+      ]
+    }
+  ]
+}
