@@ -43,6 +43,42 @@
           "country": "Canada"
         }
       ]
+    },
+    {
+      "id": 2,
+      "name": "Escondite",
+      "restaurant": "Escondite",
+      "web": "http://www.escondite.ca/",
+      "description": "Ce restaurant endiablé fait l'un des ceviches aux crevettes les plus frais de la ville, tout en réussissant à innover dans d'autres domaines. Vous y trouverez des plats uniques comme les nacho-gyozas, ainsi que les variétés classiques de tacos que nous aimons tous.",
+      "ingredients": ["jackfruit", "coleslaw", "gluten free bun"],
+      "addresses": [
+        {
+          "addressId": 0,
+          "number": "1206",
+          "line1": "Union Ave",
+          "line2": "Montréal",
+          "postcode": "H3B 3C4",
+          "country": "Canada"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Le Capital Tacos",
+      "restaurant": "Le Capital Tacos",
+      "web": "https://www.lacapitaltacos.ca/",
+      "description": "Croyez-le ou non, l'un des meilleurs restaurants mexicains de Montréal est situé dans le Quartier Chinois. Cet endroit opère depuis un certain temps déjà et sert régulièrement certains des meilleurs tacos de la ville.",
+      "ingredients": ["jackfruit", "coleslaw", "gluten free bun"],
+      "addresses": [
+        {
+          "addressId": 0,
+          "number": "1096",
+          "line1": "Saint-Laurent Coin Rene-Levesque",
+          "line2": "Montréal",
+          "postcode": "H2Z 1J5",
+          "country": "Canada"
+        }
+      ]
     }
   ]
 }
